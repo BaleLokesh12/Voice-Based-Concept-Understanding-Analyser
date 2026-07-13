@@ -1,0 +1,12 @@
+librosa
+soundfile
+sentence-transformers
+reportlab
+openai
+SpeechRecognition
+plotly
+streamlit
+numpy
+scipy
+matplotlib
+pandas
